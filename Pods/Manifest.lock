@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.0.1)
+  - MLLabel (1.9.2)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - TZImagePickerController (1.5.0)
+
+DEPENDENCIES:
+  - Masonry (~> 1.0.0)
+  - MLLabel (~> 1.9.2)
+  - SDWebImage (= 3.7.5)
+  - TZImagePickerController
+
+SPEC CHECKSUMS:
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  MLLabel: df58127ce0bd1f87890ecc3232db77a85ce4cd97
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  TZImagePickerController: d09eef6042852a9dd19224ae4e874f7430852a51
+
+PODFILE CHECKSUM: 835fc7dc1ed941d96370c325338f058543272fde
+
+COCOAPODS: 1.0.1
